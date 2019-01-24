@@ -5,7 +5,7 @@ import codecs
 #获取readConfig.py文件所在的路径
 proDir1 = os.path.realpath(__file__)
 #print(proDir1)
-#os.getcwd()得到的当前工作目录 如果是调用该模块进行执行 得到的就不是该文件的目录
+#os.getcwd()得到的当前工作目录 如果是通过调用该模块进行执行 得到的就不是该文件的目录
 proDir = os.path.split(proDir1)[0]
 #print(proDir)
 configpath = os.path.join(proDir,"config.ini")
