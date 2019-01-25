@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd401e6e-bfa1-47e7-9e49-b3a4be41ad0d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/databaseOp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/sendMail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/excelOp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/caselist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/caselist.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/configHttp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/configHttp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/readConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/readConfig.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/runAll.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/runAll.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcase/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcase/calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcase/testAdd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcase/testSubstract.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testfile/cases/userCase.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcases/testLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcases/testLogin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcases/testSummarystatic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcases/testSummarystatic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testfile/cases/complicationInterface.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testfile/cases/complicationInterface.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

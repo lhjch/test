@@ -1,2 +1,2 @@
-testAdd
-testSubstract
+testLogin
+testSummarystatic

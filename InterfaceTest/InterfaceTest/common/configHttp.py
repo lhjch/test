@@ -8,7 +8,7 @@ class configHttp:
         self.baseurl = localreadconfig.get_interface("baseurl")
         self.token = localreadconfig.get_interface("token")
         self.cookie = localreadconfig.get_interface("Cookie")
-        self.log = log().get_log()
+        #self.log = log().get_log()
         self.headers = {}
         self.data = {}
 
