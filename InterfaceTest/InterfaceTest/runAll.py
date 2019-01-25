@@ -1,6 +1,7 @@
 import readConfig
 import os
 import unittest
+import HTMLTestRunner
 
 proPath = readConfig.proDir
 print(proPath)
@@ -37,3 +38,4 @@ if __name__ == "__main":
    obj = AllTest()
    aa = obj.getTestCasefile()
    obj.getTestSuite()
+   runner = HTMLTestRunner.HTMLTestRunner()

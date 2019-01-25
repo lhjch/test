@@ -2,28 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd401e6e-bfa1-47e7-9e49-b3a4be41ad0d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/caselist.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/runAll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcase/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcase/testAdd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcase/testSubstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getRootpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/para.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/readcaselist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/testpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/.idea/InterfaceTest_lh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/.idea/InterfaceTest_lh.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/excelOp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/configHttp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/configHttp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/readConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/readConfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/testunittest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testunittest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/runAll.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/runAll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcase/calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcase/testAdd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcase/testSubstract.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testfile/cases/userCase.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/runtest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtest1.py" beforeDir="false" afterPath="$PROJECT_DIR$/runtest1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testAdd.py" beforeDir="false" afterPath="$PROJECT_DIR$/testAdd.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,10 +27,11 @@
     <session id="877474537">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -70,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
+            <state relative-caret-position="95">
               <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -82,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runtest1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="76">
               <caret line="5" column="73" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="73" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -94,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testAdd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
+            <state relative-caret-position="57">
               <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
@@ -106,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/para.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="1159">
               <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -118,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test1/readcaselist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="627">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -140,7 +133,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test1/testpath.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
+            <state relative-caret-position="494">
               <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
             </state>
           </provider>
@@ -149,7 +142,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testSubstract.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="266">
               <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
@@ -161,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="342">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
               <folding>
                 <marker date="1548318573383" expanded="true" signature="43:48" ph="..." />
               </folding>
@@ -173,7 +166,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../../../python/Lib/site-packages/requests/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
+            <state relative-caret-position="11457">
               <caret line="636" column="13" selection-start-line="636" selection-start-column="13" selection-end-line="636" selection-end-column="13" />
             </state>
           </provider>
@@ -215,9 +208,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="377" />
-    <option name="y" value="111" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="210" />
+    <option name="y" value="153" />
     <option name="width" value="1610" />
     <option name="height" value="1350" />
   </component>
@@ -227,6 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,7 +241,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -439,14 +432,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="302" y="89" width="1288" height="1080" extended-state="0" />
+    <frame x="168" y="123" width="1288" height="1080" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.321885" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5021645" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5021645" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31603053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -534,29 +528,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testSubstract.py">
+    <entry file="file://$PROJECT_DIR$/runtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="95">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtest1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="73" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAdd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../../python/Lib/site-packages/requests/models.py">
+    <entry file="file://$PROJECT_DIR$/para.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="636" column="13" selection-start-line="636" selection-start-column="13" selection-end-line="636" selection-end-column="13" />
+        <state relative-caret-position="1159">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testAdd.py">
+    <entry file="file://$PROJECT_DIR$/test1/readcaselist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="627">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1548228504908" expanded="true" signature="141:142" ph="..." />
           </folding>
         </state>
       </provider>
@@ -568,60 +586,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/para.py">
+    <entry file="file://$PROJECT_DIR$/testSubstract.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="266">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runtest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runtest1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="73" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="342">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding>
             <marker date="1548318573383" expanded="true" signature="43:48" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1/readcaselist.py">
+    <entry file="file://$PROJECT_DIR$/../../../../../python/Lib/site-packages/requests/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1548228504908" expanded="true" signature="141:142" ph="..." />
-          </folding>
+        <state relative-caret-position="11457">
+          <caret line="636" column="13" selection-start-line="636" selection-start-column="13" selection-end-line="636" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test1/testpath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
+        <state relative-caret-position="494">
           <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
         </state>
       </provider>

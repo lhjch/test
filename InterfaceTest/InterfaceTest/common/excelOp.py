@@ -7,7 +7,7 @@ def get_xls(xls_name,sheet_name):
      cls = []
      #获取xls文件所在的路径
      xlsPath = os.path.join(readConfig.proDir,"testfile\\cases",xls_name)
-     print(xlsPath)
+     #print(xlsPath)
      #打开文件
      exlfile = xlrd.open_workbook(xlsPath)
      #获取单张表
@@ -25,6 +25,6 @@ def get_xls(xls_name,sheet_name):
 if __name__ == "__main__":
     aa = range(0,5)
     print(list(aa))
-    login = get_xls("userCase.xlsx","login")
+    login = get_xls("complicationInterface.xlsx","login")
     print(login)
 
