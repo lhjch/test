@@ -2,6 +2,7 @@ import readConfig
 import os
 import unittest
 import HTMLTestRunner
+from common.sendMail import sendMail
 
 proPath = readConfig.proDir
 print(proPath)
@@ -9,6 +10,7 @@ print(proPath)
 class AllTest:
     def __init__(self):
         self.testsuite = []
+        self.sendmail = sendMail()
 
     def getTestCasefile(self):
         #挑选需要执行的用例文件名称 保存在列表caselist 根据用例文件名挑选哪些用例需要执行
@@ -41,7 +43,7 @@ class AllTest:
             testsuites.addTest(discover)
         return testsuites
 
-    #批量执行测试用例
+    #批量执行测试用例并发送邮件
     def runTest(self):
         testsuites = self.getTestSuite()
         # 测试报告路径
@@ -50,6 +52,8 @@ class AllTest:
         print(reportFile)
         runner = HTMLTestRunner.HTMLTestRunner(stream=reportFile, title="测试报告", description="并发症查询平台自动化测试")
         runner.run(testsuites)
+        #发送邮件
+        self.sendmail.sendReport()
 
 
 if __name__ == "__main__":

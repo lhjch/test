@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd401e6e-bfa1-47e7-9e49-b3a4be41ad0d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/databaseOp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/sendMail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/caselist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/caselist.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/configHttp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/common/configHttp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/runAll.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/runAll.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcases/testLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcases/testLogin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcases/testSummarystatic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testcases/testSummarystatic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testfile/cases/complicationInterface.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfaceTest/InterfaceTest/testfile/cases/complicationInterface.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +14,7 @@
     <session id="877474537">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -204,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="210" />
     <option name="y" value="153" />
     <option name="width" value="1610" />
@@ -428,7 +419,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="168" y="123" width="1288" height="1080" extended-state="1" />
+    <frame x="168" y="123" width="1288" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.321885" />
